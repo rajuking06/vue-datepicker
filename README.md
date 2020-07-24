@@ -158,5 +158,3 @@ Or, you can build your custom style by copying, editing and importing `node_modu
 1. Error `Error: spawn node-sass ENOENT`
 
 > You may need install node-sass globally, `npm i -g node-sass`
-
-This is a test
